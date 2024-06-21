@@ -1,5 +1,5 @@
+openjdk:17-jdk-alpine
 mongo:5.0.19
 nginx:alpine
 openjdk:8-jdk-alpine
 java17
-openjdk:17-jdk-alpine
